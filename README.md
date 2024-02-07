@@ -1,1 +1,1 @@
-En la regla kakuro-numero se debe cambiar el directorio del fichero "ejemplos.txt", dependiendo de donde esté guardado este archivo.
+En la función (lee-kakuro) se debe cambiar el directorio del fichero "ejemplos.txt", dependiendo de donde esté guardado este archivo.
